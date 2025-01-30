@@ -36,7 +36,8 @@ export const addressMap = {
  CHSWBNB: '0x51A162dd678d75C269Ef6680193C019e0B4Bda7E',
  DAIWBNB: '0x89D20Dcda1DC49F47BcDA00C3b84Fe30AC3d127b',
  KP3RBCHS: '0xe05207A432f6B06Fe9f78B598c1f890b260Dec45',
- }
+ DOGEKKSHIB: '0xb0694Cda0e4644dF144eb8e7F1a6A2e54C831bed',
+  }
 
 export const contractAddresses = {
   hots: {
@@ -74,6 +75,28 @@ export const supportedPools = [
      pairLink: 'https://cheeseswap.info/#/pair/0xCF33801D538C7895c4405D13E801Af6F3C6fCEF8'
 
    },
+   {
+      pid: 14,
+      lpAddresses: {
+        56: '0xb0694Cda0e4644dF144eb8e7F1a6A2e54C831bed',
+      },
+      tokenAddresses: {
+        56: '0x55f0799D60F5f1046971d494bCe376A09Dd4C668',
+      },
+      name: 'DOGEK - KSHIB',
+      symbol: 'DOGEK-KSHIB LP',
+      symbolShort: 'DOGEK-KSHIB',
+      tokenSymbol: 'DOGEK',
+      token2Symbol: 'KSHIB',
+      isHot: true,
+      isNew: false,
+      rewardValue: '2.07 HOTS',
+      apyValue: '2210%',
+      protocal: 'CheeseSwap',
+      iconProtocal: 'https://raw.githubusercontent.com/cheeseswapbsc/cheeseswap-interface/master/public/favicon.png',
+      pairLink: 'https://cheeseswap.info/#/'
+
+    },
 
    {
       pid: 13,
