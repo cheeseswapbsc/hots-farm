@@ -30,15 +30,14 @@ const Farms: React.FC = () => {
             <Route exact path={path}>
               <PageHeader
                 icon={<img src={van} height="128" />}
-                subtitle="Earn HotDog HOTS tokens by staking Hots.Cafe LP Tokens."
-                title="Select Your Favorite HOTS"
+                subtitle="Earn HotDog HOTS tokens by staking Cheeseswap LP Tokens (Cheese-LP)."
+                title="Select Your Favorite HOTS Kitchen"
               />
               <Container>
               <StyledInfoLP>
-              <div style={{ color: '#b1b8bf', fontSize: 14, marginLeft: 20, marginRight: 20}}>Hots Cafe is Ready to serve. <b>Sausage, Bagel Dog, Corn Dogs, Dodger Dog *FoodExchange *FoodCraft (NFT)</b> are coming. <br />
-               We hope Our journey through Binance Smart Chain will be smooth. Don't miss to grab cheap HOTDOG, HOTS from Pancake Liquidity Pool Buy
-               
-              </div>
+              <div style={{ color: '#b1b8bf', fontSize: 14, marginLeft: 20, marginRight: 20}}>Hots Maker is Ready to serve. <b>HOTS</b> is ready. <br />
+               We hope Our journey through Binance Smart Chain will be smooth. Don't miss to grab cheap HOTS from CheeseSwap.
+               </div>
                </StyledInfoLP>
                </Container>
                <Spacer size="lg" />

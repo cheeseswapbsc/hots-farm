@@ -13,7 +13,7 @@ const Home: React.FC = () => {
     <Page>
       <PageHeader
         icon={<img src={van} height={128} />}
-        title="Make HOTS From HOTS Maker"
+        title="Make HOTS From HOTS Maker (Renounced Contract)"
         subtitle="Stake Cheese LP tokens to GET more HOTS!"
       />
 
@@ -31,8 +31,8 @@ const Home: React.FC = () => {
       <Spacer />
       <Container>
       <StyledInfoLP>
-        <div style={{ color: '#b1b8bf', fontSize: 14, marginLeft: 20, marginRight: 20}}> Hots Maker is Ready to serve. <b>Sausage, Bagel Dog, Corn Dogs, Dodger Dog *FoodExchange *FoodCraft (NFT)</b> are coming. <br />
-         We hope Our journey through Binance Smart Chain will be smooth. Don't miss to grab cheap HOTS from Cheeseswap Liquidity Pool.
+        <div style={{ color: '#b1b8bf', fontSize: 14, marginLeft: 20, marginRight: 20}}> Hots Maker is Ready to serve. <b>Sausage</b> HOTS is ready. <br />
+         We hope Our journey through Binance Smart Chain will be smooth. Don't miss to grab cheap HOTS from Cheeseswap Liquidity Pool (Cheese-LP).
          </div>
        </StyledInfoLP>
        </Container>
