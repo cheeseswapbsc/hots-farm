@@ -12,25 +12,11 @@ const Nav: React.FC = () => {
         Kitchen
       </StyledLink>
       <StyledAbsoluteLink
-        href="#"
+        href="https://cheeseswap.app"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Governance
-      </StyledAbsoluteLink>
-      <StyledAbsoluteLink
-        href="#"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        FoodExchange
-      </StyledAbsoluteLink>
-      <StyledAbsoluteLink
-        href="#"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        NFT
+        Swap
       </StyledAbsoluteLink>
       <StyledAbsoluteLink
         href="https://medium.com/@hotdogcafe/how-hotdog-will-become-primordial-protector-of-liquidity-2b095cc8ee0f"
